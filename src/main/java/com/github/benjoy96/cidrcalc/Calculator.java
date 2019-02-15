@@ -1,4 +1,4 @@
-package com.github.benjoy96.cidrcalc;
+package main.java.com.github.benjoy96.cidrcalc;
 
 import java.util.Scanner;
 
